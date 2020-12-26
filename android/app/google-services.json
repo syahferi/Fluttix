@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822888170429",
+    "firebase_url": "https://fluttix-5a3cf.firebaseio.com",
+    "project_id": "fluttix-5a3cf",
+    "storage_bucket": "fluttix-5a3cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822888170429:android:f2f50ce2bc7b85b65708d4",
+        "android_client_info": {
+          "package_name": "com.syahferiaswan.fluttix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822888170429-n6pqpb9eulcdn9aop6oud62vrucbohtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOJOyYPC9hBq7EyGtn2_2ubKBarlilbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822888170429-n6pqpb9eulcdn9aop6oud62vrucbohtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
